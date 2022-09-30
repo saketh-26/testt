@@ -2,7 +2,7 @@ asgiref==3.2.10
 cycler==0.10.0
 Django==3.0.8
 django-crispy-forms==1.9.1
-joblib==0.16.0
+joblib==1.2.0
 kiwisolver==1.2.0
 matplotlib==3.2.2
 numpy==1.19.0
